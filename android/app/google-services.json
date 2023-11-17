@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "484800002915",
+    "firebase_url": "https://ridesharinglatest-default-rtdb.firebaseio.com",
+    "project_id": "ridesharinglatest",
+    "storage_bucket": "ridesharinglatest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484800002915:android:98d19b4c1ebb2f8f2b7156",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484800002915-mo54srlktnp3m4vhccesihpmtofkmpf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD178a4bKU7NF3FU09AKxuCCCOQte4Nj4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484800002915-mo54srlktnp3m4vhccesihpmtofkmpf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484800002915-3qqdu8tusten16o9qv5o7f3p26lkasr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ridesharingLatest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484800002915:android:29a4c6fcc27110bb2b7156",
+        "android_client_info": {
+          "package_name": "com.example.ridesharing_latest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484800002915-mo54srlktnp3m4vhccesihpmtofkmpf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD178a4bKU7NF3FU09AKxuCCCOQte4Nj4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484800002915-mo54srlktnp3m4vhccesihpmtofkmpf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484800002915-3qqdu8tusten16o9qv5o7f3p26lkasr7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ridesharingLatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
